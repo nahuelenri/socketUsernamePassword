@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1725217224 source:c:\users\pc\onedrive\desktop\n\distribuidos\tp1\clientec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
